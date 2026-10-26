@@ -1,0 +1,6 @@
+{
+  "name": "Geo3D Studio - Geospatial 3D Extractor & CAD/BIM Exporter",
+  "description": "Extract 3D building geometry and urban terrain from Earth databases like OpenStreetMap, Cesium, and Google Earth, then export to OBJ, FBX, DXF, SKP, RVT/IFC, STL, and GLTF for CAD, BIM, and 3D modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
